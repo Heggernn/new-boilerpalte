@@ -1,1 +1,1 @@
-# new-boilerpalte
+# new-boilerplate
